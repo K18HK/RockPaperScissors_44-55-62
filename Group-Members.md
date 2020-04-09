@@ -1,0 +1,6 @@
+# ROCK PAPER SCISSORS APP A.I. PROJECT
+## GROUP MEMBERS
+* 11804123 Vaibhav Nanda Roll No. 44
+* 11804142 Rohan Singh Roll No. 62
+* 11804138 Bhavesh Roll No. 55
+* 11810206 Vikas Roll No. 7
